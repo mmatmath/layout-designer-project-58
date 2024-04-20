@@ -1,0 +1,68 @@
+.white {
+    color: #fff;
+}
+
+.translucent-white {
+    color: #d7ccc0;
+}
+
+.light {
+    color: #d7ccc0;
+}
+
+.basic {
+    color: #fe8a02;
+}
+
+.basic-dark {
+    color: #42413c;
+}
+
+.dark {
+    color: #2a2626;
+}
+
+.translucent-dark {
+    color: #908d8b;
+}
+
+.brown {
+    color: #b09a81;
+}
+
+.blue {
+    color: #1085c5;
+}
+
+
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    color: #2A2626;
+}
+
+h1 {
+    font-family: "Neucha", cursive;
+    line-height: 1.2em;
+    font-size: 72px;
+}
+
+h2 {
+    font-family: "Neucha", cursive;
+    line-height: 1.2em;
+    font-size: 60px;
+}
+
+h3 {
+    font-family: "Neucha", cursive;
+    line-height: 1.2em;
+    font-size: 34px;
+}
+
+section {
+    max-width: 1110px;
+    padding: 100px;
+    margin: auto;
+}
+
